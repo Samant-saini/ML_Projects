@@ -1,0 +1,55 @@
+HotelName,rating,review,location,price,more,rooms,night
+"The 14 Gables, A Boutique Stay",9.3,86,Manāli,US$49,"1 night, 1 adult",1,1.0
+Hotel Mountain Meadows,8.7,13,"New Manali, Manāli",US$10,"1 night, 1 adult",1,1.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47,"Old Manali, Manāli",US$12,"1 night, 1 adult",1,1.0
+"Hill Queen Resort, Manali",9.4,39,Manāli,US$12,"1 night, 1 adult",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48,Manāli,US$12,"1 night, 1 adult",1,1.0
+"The 14 Gables, A Boutique Stay",9.3,86,Manāli,US$49,"1 night, 2 adults",1,1.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47,"Old Manali, Manāli",US$12,"1 night, 2 adults",1,1.0
+"Hill Queen Resort, Manali",9.4,39,Manāli,US$12,"1 night, 2 adults",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48,Manāli,US$12,"1 night, 2 adults",1,1.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47,"Old Manali, Manāli",US$12,"1 night, 4 adults",1,1.0
+"Hill Queen Resort, Manali",9.4,39,Manāli,US$12,"1 night, 4 adults",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48,Manāli,US$13,"1 night, 4 adults",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48,Manāli,US$23,"1 night, 4 adults",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48,Manāli,US$23,"1 night, 4 adults",2,1.0
+"Hotel The North Wind in City Center, Manali",9.7,7,Manāli,US$11,"1 night, 2 adults, 1 child",1,1.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47,"Old Manali, Manāli",US$12,"1 night, 2 adults, 1 child",1,1.0
+"Hill Queen Resort, Manali",9.4,39,Manāli,US$12,"1 night, 2 adults, 1 child",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48,Manāli,US$12,"1 night, 2 adults, 1 child",1,1.0
+"The 14 Gables, A Boutique Stay",9.3,86 ,Manāli,US$67,"1 night, 2 adults, 2 children",1,1.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47 ,"Old Manali, Manāli",US$12,"1 night, 2 adults, 2 children",1,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$13,"1 night, 2 adults, 2 children",1,1.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47 ,"Old Manali, Manāli",US$24,"1 night, 3 adults, 2 children",2,1.0
+"Hill Queen Resort, Manali",9.4,39 ,Manāli,US$25,"1 night, 3 adults, 2 children",2,1.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$24,"1 night, 3 adults, 2 children",2,1.0
+"The 14 Gables, A Boutique Stay",9.3,86 ,Manāli,US$97,"2 nights, 1 adult",1,2.0
+Hotel Mountain Meadows,8.7,13 ,"New Manali, Manāli",US$20,"2 nights, 1 adult",1,2.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47 ,"Old Manali, Manāli",US$24,"2 nights, 1 adult",1,2.0
+"Hill Queen Resort, Manali",9.4,39 ,Manāli,US$25,"2 nights, 1 adult",1,2.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$23,"2 nights, 1 adult",1,2.0
+"Hotel The North Wind in City Center, Manali",9.7,7 ,Manāli,US$39,"2 nights, 2 adults",2,2.0
+"Hotel The North Wind in City Center, Manali",9.7,7 ,Manāli,US$58,"2 nights, 3 adults",3,2.0
+"Hotel The North Wind in City Center, Manali",9.7,7 ,Manāli,US$58,"2 nights, 3 adults",3,2.0
+"The Hosteller Manali, Old Manali",9.4,18 ,"Old Manali, Manāli",US$36,"2 nights, 3 adults",3,2.0
+Vashisht valley hotel,8.4,105 ,Manāli,US$146,"2 nights, 3 adults",3,2.0
+"The 14 Gables, A Boutique Stay",9.3,86 ,Manāli,US$195,"2 nights, 2 adults, 2 children",2,2.0
+"Hill Queen Resort, Manali",9.4,39 ,Manāli,US$79,"2 nights, 2 adults, 2 children",2,2.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$47,"2 nights, 2 adults, 2 children",2,2.0
+Vashisht valley hotel,8.4,105 ,Manāli,US$123,"2 nights, 2 adults, 2 children",2,2.0
+"The 14 Gables, A Boutique Stay",9.3,86 ,Manāli,US$146,"3 nights, 2 adults",1,3.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47 ,"Old Manali, Manāli",US$36,"3 nights, 2 adults",1,3.0
+"Hill Queen Resort, Manali",9.4,39 ,Manāli,US$37,"3 nights, 2 adults",1,3.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$35,"3 nights, 2 adults",1,3.0
+"The Hosteller Manali, Old Manali",9.4,18 ,"Old Manali, Manāli",US$75,"3 nights, 2 adults",1,3.0
+"The 14 Gables, A Boutique Stay",9.3,86 ,Manāli,US$159,"3 nights, 2 adults, 1 child",1,3.0
+"Hill Queen Resort, Manali",9.4,39 ,Manāli,US$37,"3 nights, 2 adults, 1 child",1,3.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$37,"3 nights, 2 adults, 1 child",1,3.0
+"The 14 Gables, A Boutique Stay",9.3,86 ,Manāli,US$198,"3 nights, 2 adults, 2 children",1,3.0
+"Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available",9.2,47 ,"Old Manali, Manāli",US$36,"3 nights, 2 adults, 2 children",1,3.0
+"Hill Queen Resort, Manali",9.4,39 ,Manāli,US$37,"3 nights, 2 adults, 2 children",1,3.0
+"Himalayan Nature Walk Resort, Manali",9.4,48 ,Manāli,US$39,"3 nights, 2 adults, 2 children",1,3.0
+Vashisht valley hotel,8.4,105 ,Manāli,US$183,"3 nights, 2 adults, 2 children",1,3.0
+"Hotel The North Wind in City Center, Manali",9.7,7 ,Manāli,US$58,"3 nights, 2 adults",2,3.0
+"The Hosteller Manali, Old Manali",9.4,18 ,"Old Manali, Manāli",US$36,"3 nights, 2 adults",2,3.0
+Vashisht valley hotel,8.4,105 ,Manāli,US$146,"3 nights, 2 adults",2,3.0

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Form</title>
+    <style>
+        body{
+            background-color:#2c2f50;
+            background-image: linear-gradient(to left,rgb(26, 25, 25),rgb(60, 66, 73),rgb(47, 47, 65));
+        }
+        .container {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 20px 500px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            
+        }
+
+        form {
+            background-color: #4e5466;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(189, 43, 43, 0.1);
+            max-width: 400px;
+            width: 100%;
+            margin:10px auto;
+            color: whitesmoke;
+            
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            font-weight: 900;
+            font-size: 50px;
+            margin-bottom: 10px;
+            
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        label {
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            display: block;
+            font-weight: 900;
+            margin-bottom: 8px;
+            margin-left: 20px;
+            color: #ffffff;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 5px;
+            box-sizing: border-box;
+            border-radius: 20px;
+        }
+        select{
+            border-radius: 20px;
+            width: 400px;
+            height: 30px;
+        }
+
+        button {
+            background-color: #2a303b;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Hotel Price</h1><br>
+    <div class="contaier">
+    <form action="/predict" method="POST">
+        <tr><label for="night">Night</label>
+        <input type="number" name="night" required>
+
+        <label for="Adult">Adult</label>
+        <input type="number" name="Adult" required>
+
+        <label for="child">child</label>
+        <input type="number" name="child" required></tr>
+
+        <tr><label for="rooms">rooms</label>
+        <input type="number" name="rooms" required>
+
+        <label for="rating">rating</label>
+        <input type="number" step="any" name="rating" required>
+
+        <label for="review">review</label>
+        <input type="number" name="review" required></tr>
+        <label for="Hotel">Hotel</label>
+        <select name="hotel" id="hotel" required="required">
+            <option value=""></option>
+            <option value="Himalayan_Nature_Walk_Resort_Manali">Himalayan Nature Walk Resort, Manali</option>
+            <option value="Hill_Queen_Resort_Manali">Hill Queen Resort, Manali</option>
+            <option value="Shree_Ram_Cottage_Manali_Bedroom_Luxury_Cottages_Available"> Shree Ram Cottage, Manali ! 1,2,3 Bedroom Luxury Cottages Available</option>
+            <option value="The_14_Gables_A_Boutique_Stay">The 14 Gables, A Boutique Stay</option>
+            <option value="Vashisht_valley_hotel">Vashisht valley hotel</option>
+            <option value="Hotel_The_North_Wind">Hotel The North Wind in City Center, Manali</option>
+            <option value="Hotel_Mountain_Meadows">Hotel Mountain Meadows</option>
+            <option value="The_Hosteller_Manali">Hotel Mountain Meadows</option>
+        </select>
+
+        <label for="city">city</label>
+        
+        <select name="city" id="city" required="required">
+            <option value=""></option>
+        <option value="Manāli">Manāli</option>
+        <option value="New Manali, Manāli">New Manali, Manāli</option>
+        </select>
+        
+         <br>
+         <br><br>
+
+        <input type='submit' value='Predict'>
+       <h2> price {{result}}</h2>
+    </form>
+    </div>
+</body>
+</html>
